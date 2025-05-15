@@ -85,10 +85,10 @@ The workspace is computed as a torus using analytic constraints from the inverse
 The following videos illustrate the robot's simulated behavior during pick-and-place operations and iterative control.
 
 - Part 1 – Static Inverse Kinematics Execution  
-[Watch Video](./Video_Demonstration/part1.mp4)
+[Watch Video](./Video_Demonstration/Part1.mp4)
 
 - Part 2 – Iterative Control and Full Pick-and-Place Sequence  
-[Watch Video](./Video_Demonstration/part2.mp4)
+[Watch Video](./Video_Demonstration/Part2.mp4)
 
 ## Simulated Object Paths
 
